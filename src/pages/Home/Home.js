@@ -5,6 +5,8 @@ import Info from './Info/Info';
 import Services from '../Components/Services/Services';
 import DentalCare from '../Components/DentalCare/DentalCare';
 import MakeAppointment from '../Components/MakeAppointment/MakeAppointment';
+import Testtimonial from '../Components/Testtimonial/Testtimonial';
+import Contact from '../Components/Contact/Contact';
 const Home = () => {
     return (
 
@@ -28,7 +30,8 @@ const Home = () => {
 <Services></Services>
 <DentalCare></DentalCare>
 <MakeAppointment></MakeAppointment>
-
+<Testtimonial></Testtimonial>
+<Contact></Contact>
         </div>
 
 
