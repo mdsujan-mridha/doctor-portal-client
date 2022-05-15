@@ -3,7 +3,7 @@ import appointment from '../../../assets/images/appointment.png'
 
 const Contact = () => {
     return (
-        <section className='my-24 pt-16 pb-20' style={{
+        <section className='mt-24 pt-16 pb-20' style={{
             background:`url(${appointment})`
         }}>
             <div>
@@ -16,10 +16,10 @@ const Contact = () => {
 
          
                
-                <input type="email" placeholder="Enter email" class="input input-bordered input-md w-full max-w-lg mt-5" />
-                <input type="text" placeholder="Subject" class="input input-bordered input-md w-full max-w-lg mt-5" />
-                <input type="text" placeholder="Enter your message" style={{height:'136px'}} class="input input-bordered input-lg  w-full max-w-lg mt-5" />
-                <button class="btn btn-active btn-primary mt-9">SUBMIT</button>
+                <input type="email" placeholder="Enter email" className="input input-bordered input-md w-full max-w-lg mt-5" />
+                <input type="text" placeholder="Subject" className="input input-bordered input-md w-full max-w-lg mt-5" />
+                <input type="text" placeholder="Enter your message" style={{height:'136px'}} className="input input-bordered input-lg  w-full max-w-lg mt-5" />
+                <button className="btn btn-active btn-primary mt-9">SUBMIT</button>
        
                
 
