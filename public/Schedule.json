@@ -1,0 +1,52 @@
+[
+    {
+        "._id":1,
+        "name":"Teeth Orthodontics",
+        "time":[
+           " 8:00 AM - 9:00 AM",
+           "10 SPACES AVAILABLE"
+        ]
+    },
+    {
+        "._id":2,
+        "name":"Cosmetic Dentistry",
+        "time":[
+           " 10:05 am - 11:30 am",
+           "10 SPACES AVAILABLE"
+        ]
+    },
+    {
+        "._id":3,
+        "name":"Teeth Cleaning",
+        "time":[
+           " 8:00 AM - 9:00 AM",
+           "10 SPACES AVAILABLE"
+        ]
+    },
+    {
+        "._id":4,
+        "name":"Teeth Orthodontics",
+        "time":[
+           " 8:00 AM - 9:00 AM",
+           "10 SPACES AVAILABLE"
+        ]
+    },
+    {
+        "._id":5,
+        "name":"Teeth Orthodontics",
+        "time":[
+           " 8:00 AM - 9:00 AM",
+           "10 SPACES AVAILABLE"
+        ]
+    },
+    {
+        "._id":6,
+        "name":"Teeth Orthodontics",
+        "time":[
+           " 8:00 AM - 9:00 AM",
+           "10 SPACES AVAILABLE"
+        ]
+    }
+
+
+]
