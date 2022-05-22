@@ -3,48 +3,74 @@
         "._id":1,
         "name":"Teeth Orthodontics",
         "time":[
-           " 8:00 AM - 9:00 AM",
-           "10 SPACES AVAILABLE"
+            " 8:00 AM - 8:30 AM",
+           " 8:30 AM - 9:00 AM",
+           " 9:30 AM - 10:00 AM",
+           " 10:00 AM - 10:30 AM",
+           " 10:30 AM - 11:00 AM",
+           " 11:30 AM - 12:00 AM",
+           " 12:00 AM - 12:30 AM"
+           
         ]
     },
     {
         "._id":2,
         "name":"Cosmetic Dentistry",
         "time":[
-           " 10:05 am - 11:30 am",
-           "10 SPACES AVAILABLE"
+          
+           
         ]
     },
     {
         "._id":3,
         "name":"Teeth Cleaning",
         "time":[
-           " 8:00 AM - 9:00 AM",
-           "10 SPACES AVAILABLE"
+           " 8:00 AM - 8:30 AM",
+           " 8:30 AM - 9:00 AM",
+           " 9:30 AM - 10:00 AM",
+           " 10:00 AM - 10:30 AM",
+           " 10:30 AM - 11:00 AM",
+           " 11:30 AM - 12:00 AM"
+           
         ]
     },
     {
         "._id":4,
         "name":"Teeth Orthodontics",
         "time":[
-           " 8:00 AM - 9:00 AM",
-           "10 SPACES AVAILABLE"
+            " 10:05 am - 10:30 am",
+            " 10:30 am - 11:00 am",
+            " 11:00 am - 11:30 am",
+            " 11:30 am - 12:00 am",
+            " 12:00 am - 12:30 am",
+            " 12:30 am - 01:00 am"
+           
         ]
     },
     {
         "._id":5,
         "name":"Teeth Orthodontics",
         "time":[
-           " 8:00 AM - 9:00 AM",
-           "10 SPACES AVAILABLE"
+            " 8:00 AM - 8:30 AM",
+            " 8:30 AM - 9:00 AM",
+            " 9:30 AM - 10:00 AM",
+            " 10:00 AM - 10:30 AM",
+            " 10:30 AM - 11:00 AM",
+            " 11:30 AM - 12:00 AM"
+           
         ]
     },
     {
         "._id":6,
         "name":"Teeth Orthodontics",
         "time":[
-           " 8:00 AM - 9:00 AM",
-           "10 SPACES AVAILABLE"
+            " 10:05 am - 10:30 am",
+            " 10:30 am - 11:00 am",
+            " 11:00 am - 11:30 am",
+            " 11:30 am - 12:00 am",
+            " 12:00 am - 12:30 am",
+            " 12:30 am - 01:00 am"
+           
         ]
     }
 
