@@ -6,6 +6,7 @@ import Home from './pages/Home/Home';
 import About from './pages/Components/About/About';
 import Login from './pages/Components/Login/Login';
 import Appointment from './pages/Appointment/Appointment';
+import Register from './pages/Components/Register/Register';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='login' element={<Login></Login>}></Route>
         <Route path='/appoinment' element={<Appointment></Appointment>}></Route>
+        <Route path='/register' element={<Register></Register>}></Route>
 
      </Routes>
     </div>
